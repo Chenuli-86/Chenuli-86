@@ -8,7 +8,7 @@ Passionate about building practical cybersecurity solutions
 
 ## About Me
 
-I am currently working on **SentinelGate**, a web-based API Security Scanning Platform designed using the OWASP API Top 10 framework.
+I have worked on **SentinelGate**, a web-based API Security Scanning Platform designed using the OWASP API Top 10 framework.
 
 The platform includes:
 
