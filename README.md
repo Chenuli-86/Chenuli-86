@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Chenuli Alwis
 
-<!--
-**Chenuli-86/Chenuli-86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity undergraduate at Edith Cowan University interested in:
 
-Here are some ideas to get you started:
+- API Security
+- Penetration Testing
+- Secure Software Development
+- Machine Learning Security
+- Digital Forensics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- Python
+- Flask
+- React
+- PostgreSQL
+- GitHub
+- Linux
+- Wireshark
+- Scikit-learn
+
+---
+
+## Featured Project
+
+### SentinelGate - API Security Scanner
+
+SentinelGate is a web-based API security scanning platform developed using the OWASP API Top 10 framework.
+
+Key features:
+- API vulnerability scanning
+- CVSS risk scoring
+- ML severity prediction
+- MFA authentication
+- PDF report generation
+- Alert management system
+
+---
+
+## Currently Learning
+
+- Advanced API Security
+- Threat Detection
+- Secure Backend Development
+- Cybersecurity Research
+
+---
+
+## Connect With Me
+
+- LinkedIn: https://linkedin.com/in/chenuli-alwis
+- GitHub: https://github.com/Chenuli-86
