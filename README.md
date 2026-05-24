@@ -1,4 +1,4 @@
-# Hi there, I'm Chenuli Alwis 👋
+# Hi there, I'm Chenuli Alwis 
 
 Cybersecurity Undergraduate at Edith Cowan University  
 Interested in API Security, Secure Software Development, and Machine Learning  
