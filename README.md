@@ -1,25 +1,38 @@
-# Hi, I'm Chenuli Alwis
+# Hi there, I'm Chenuli Alwis 👋
 
-Cybersecurity undergraduate at Edith Cowan University interested in:
-
-- API Security
-- Penetration Testing
-- Secure Software Development
-- Machine Learning Security
-- Digital Forensics
+Cybersecurity Undergraduate at Edith Cowan University  
+Interested in API Security, Secure Software Development, and Machine Learning  
+Passionate about building practical cybersecurity solutions  
 
 ---
 
-## Tech Stack
+## About Me
 
-- Python
-- Flask
-- React
-- PostgreSQL
-- GitHub
-- Linux
-- Wireshark
-- Scikit-learn
+I am currently working on **SentinelGate**, a web-based API Security Scanning Platform designed using the OWASP API Top 10 framework.
+
+The platform includes:
+
+- API vulnerability scanning
+- CVSS risk scoring
+- Machine learning severity prediction
+- MFA authentication
+- PDF report generation
+- Dashboard analytics
+- Alert management system
+
+---
+
+## Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Wireshark](https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge&logo=scikitlearn)
 
 ---
 
@@ -27,28 +40,33 @@ Cybersecurity undergraduate at Edith Cowan University interested in:
 
 ### SentinelGate - API Security Scanner
 
-SentinelGate is a web-based API security scanning platform developed using the OWASP API Top 10 framework.
+🔗 Repository:  
+https://github.com/Chenuli-86/SentinelGate-API-Security-Scanner
 
-Key features:
-- API vulnerability scanning
-- CVSS risk scoring
+Features:
+- OWASP API Top 10 vulnerability detection
+- CVSS-based severity calculation
 - ML severity prediction
-- MFA authentication
-- PDF report generation
-- Alert management system
+- MFA authentication system
+- Scan history and alerts
+- PDF security report generation
 
 ---
 
 ## Currently Learning
 
 - Advanced API Security
-- Threat Detection
+- Penetration Testing
 - Secure Backend Development
-- Cybersecurity Research
+- Threat Detection
+- Machine Learning Security
 
 ---
 
-## Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/chenuli-alwis
-- GitHub: https://github.com/Chenuli-86
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/chenuli-alwis)
+
+---
+
+“Building secure and practical cybersecurity solutions one project at a time.”
